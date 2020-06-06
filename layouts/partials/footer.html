@@ -1,0 +1,23 @@
+</div>
+<div class="footer">
+    <div class="copyright-wrap">
+        <p class="copyright u-font">
+            {{ with .Site.Copyright | safeHTML }}
+            {{- . -}}
+            {{ else }}
+            &#169;
+            {{ .Site.LastChange.Format "2006" }}
+            {{ if .Site.Params.author }}
+            <a href="{{ .Site.Params.authorwebsite }}" target="_blank">{{ .Site.Params.author }}&#8200;&#183;</a>
+            <a href="{{ .Site.Params.impressumwebsite }}" target="_blank">Impressum</a>&#8200;&#183;
+            <a href="{{ .Site.Params.datenschutzwebsite }}" target="_blank">Datenschutz</a>
+            <!--Theme <a href="https://github.com/iCyris/hugo-theme-yuki" target="_blank">yuki</a>&#46;-->
+            <!--Powered by Hugo&#46;-->
+            {{ end }}
+            {{ end }}
+        </p>
+    </div>
+</div>
+</body>
+<script src="{{ "js/page.js" | absURL }}"></script>
+<script>hljs.initHighlightingOnLoad();</script>

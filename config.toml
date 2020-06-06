@@ -1,0 +1,76 @@
+baseurl = "https://example.com/"
+languageCode = "de"
+title = "Sophi's Website"
+theme = "hugo-theme-yuki"
+author = "Sophia Ihler"
+
+# Copyright notice. This will display on the footer.
+copyright = "" #leave empty
+paginate = 10
+
+# Theme config
+[params]
+
+  # The content you want to be listed on list pages.
+  mainSections = ["posts"]
+
+  # The information will display on the post pages.
+  author = "Sophia Ihler"
+  description = "Short description of Sophi Ihler"
+  authorwebsite = "../../pages/about"
+  impressumwebsite = "../../pages/impressum"
+  datenschutzwebsite = "../../pages/datenschutz"
+
+  # The path to your images
+  favicon = "images/logo_bearb.png"
+  logo = "images/logo_bearb.png"
+  avatar = "images/logo_bearb.png"
+  displayImg = "images/home.png"
+
+  # This will display on the index page
+  snsTitle = ""
+
+  # Google Analytics API key.
+  ga_api_key = "Your Google Analytics tracking id"
+
+# Navbar config
+[[menu.nav]]
+    name = "HOME"
+    url = "/"
+    weight = 1
+
+[[menu.nav]]
+    name = "ÜBER MICH"
+    url = "/pages/about"
+    weight = 2
+
+[[menu.nav]]
+    name = "MEINE ARBEIT"
+    url = "/pages/work"
+    weight = 3
+
+[[menu.nav]]
+    name = "BLOG"
+    url = "/post"
+    weight = 4
+
+#[[menu.nav]]
+#    name = "IMPRESSUM"
+#    url = "/pages/impressum"
+#    weight = 5
+
+# Social accounts config (This will display on the index page)
+[[menu.social]]
+    name = "Example-1"
+    url = "/"
+    weight = 1
+
+[[menu.social]]
+    name = "Example-2"
+    url = "/"
+    weight = 2
+
+[[menu.social]]
+    name = "Example-3"
+    url = "/"
+    weight = 3

@@ -1,11 +1,11 @@
 baseurl = "https://sophilotta.netlify.app"
 languageCode = "de"
-title = "Sophi's Website"
+title = "sophilotta"
 theme = "hugo-theme-yuki"
 author = "Sophia Ihler"
 
 # Copyright notice. This will display on the footer.
-copyright = "" #leave empty
+copyright = "" #leave empty, its hard coded
 paginate = 10
 
 # Theme config

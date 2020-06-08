@@ -14,7 +14,7 @@ Atzenberg 15
 ## Kontakt
 
 Telefon: 01578 2822 654  
-E-Mail: sophilotta-at-outlook.de
+E-Mail: <sophilotta@outlook.de>
 
 ## Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV
 

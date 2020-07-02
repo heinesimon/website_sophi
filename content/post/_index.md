@@ -1,7 +1,7 @@
 +++
 aliases = ["posts","articles","blog","showcase"]
-title = "Posts"
+title = "Kontakt"
 author = "Hugo Authors"
 +++
 
-Test index of post list pages
+Test index of kontakt

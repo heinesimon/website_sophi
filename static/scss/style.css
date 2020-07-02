@@ -67,7 +67,7 @@ article {
         padding-left: 30px; } }
 
 blockquote p {
-  border-left: #b38d19 3px solid;
+  border-left: #e6e6e6 3px solid;
   padding: 0 15px; }
 
 p code {
@@ -360,9 +360,14 @@ h1, h2, h3, h4 {
     .main-content {
       width: 90vw; } }
   .main-content img {
-    display: block;
+    /*display: block;
     max-width: 56vw;
-    height: auto; }
+    height: auto; */
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: auto;
+  }
     @media screen and (max-width: 800px) {
       .main-content img {
         max-width: 90vw; } }
@@ -371,7 +376,7 @@ h1, h2, h3, h4 {
     .main-content h1::before, .main-content h2::before, .main-content h3::before, .main-content h4::before, .main-content h5::before, .main-content h6::before {
       position: absolute;
       content: ">";
-      color: #b38d19;
+      color: #e6e6e6;
       font-weight: normal;
       transform: translateX(-25px); }
       @media screen and (max-width: 800px) {

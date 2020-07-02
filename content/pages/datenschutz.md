@@ -71,7 +71,7 @@ Die verantwortliche Stelle für die Datenverarbeitung auf dieser Website ist:
 Sophia Carlotta Ihler
 
 Telefon: 01578 2822 654
-E-Mail: sophilotta-at-outlook.de
+E-Mail: sophilotta at outlook dot de
 
 Verantwortliche Stelle ist die natürliche oder juristische Person, die allein oder gemeinsam mit anderen über die Zwecke und Mittel der Verarbeitung von personenbezogenen Daten (z. B. Namen, E-Mail-Adressen o. Ä.) entscheidet.
 

@@ -4,7 +4,7 @@ date = "2020-05-24"
 menu = "main"
 +++
 
-[Bild]
+![Portrait](/images/portrait.png "Portrait")
 
 Ich habe ziemlich lange überlegt, wie ich mich selbst am besten beschreiben könnte und finde, dass es der Text von Julia Engelmann wohl am besten trifft:
 

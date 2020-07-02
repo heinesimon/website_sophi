@@ -50,8 +50,8 @@ paginate = 10
     weight = 3
 
 [[menu.nav]]
-    name = "BLOG"
-    url = "/post"
+    name = "KONTAKT"
+    url = "/kontakt"
     weight = 4
 
 #[[menu.nav]]

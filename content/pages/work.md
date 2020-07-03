@@ -18,7 +18,7 @@ Ich gehe auf deine Wünsche und deine Bedürfnisse ein, wir entwickeln zusammen 
 ---
 
 **Personal Training**  
-60-90 Minuten: 30-45€
+60 Minuten: 25€
 
 ---
 

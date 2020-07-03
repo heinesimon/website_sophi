@@ -1,4 +1,4 @@
-baseurl = "https://wwww.sophilotta.de"
+baseurl = "http://wwww.sophilotta.de"
 languageCode = "de"
 title = "sophilotta"
 theme = "hugo-theme-yuki"

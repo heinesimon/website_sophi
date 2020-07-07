@@ -17,8 +17,10 @@ Ich gehe auf deine Wünsche und deine Bedürfnisse ein, wir entwickeln zusammen 
 
 ---
 
-**Personal Training**  
-60 Minuten: 25€
+**Personal Training**
+Wo: Wangen im Allgäu und Umkreis
+Wann: individuelle Terminabstimmung 
+Preis: auf Anfrage
 
 ---
 

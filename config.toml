@@ -1,4 +1,4 @@
-baseurl = "http://wwww.sophilotta.de"
+baseurl = "https://sophilotta.netlify.app"
 languageCode = "de"
 title = "sophilotta"
 theme = "hugo-theme-yuki"

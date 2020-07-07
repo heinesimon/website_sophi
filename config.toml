@@ -20,6 +20,7 @@ paginate = 10
   authorwebsite = "../../pages/about"
   impressumwebsite = "../../pages/impressum"
   datenschutzwebsite = "../../pages/datenschutz"
+  
 
   # The path to your images
   favicon = "images/logo_bearb.png"
